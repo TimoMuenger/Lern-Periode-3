@@ -5,16 +5,20 @@
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+   Ich war in keinem der Module ungenügend aber auch nicht sehr stark. Mein bestes Modul war das Modul 431 da hatte ich eine 5.
 4. Was wäre ein geeignetes Projekt für diese LP3?
+   Einen Taschenrechner mit Buttons
 
 ## 10.1.2025
 
-- [ ] ...
-- [ ] ...
+- [x] Windows Form Apps auprobieren
+- [x] Geeignetes Projekt suchen (über Internetrechere, etc.)
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich mich über das Internet informiert was ich den also kleines Projekt für die LP3 machen könnte. Am schluss habe ich mich dazu entschlossen einen Taschenrechner zu machen mit Buttos. Bis jetzt konnte ich das layout für den Taschenrechner machen und muss jetzt die Buttons so coden, dass sie wie ein Taschentechner funktionieren 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
 
-## ...
+## 17.1.2025
 
+- [ ] Buttons für den Taschenrechner programmieren
+- [ ] Neue features hinzufügen z.B. eine delet Taste
