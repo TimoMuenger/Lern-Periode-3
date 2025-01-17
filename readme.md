@@ -20,5 +20,12 @@
 
 ## 17.1.2025
 
-- [ ] Buttons für den Taschenrechner programmieren
+- [x] Buttons für den Taschenrechner programmieren
 - [ ] Neue features hinzufügen z.B. eine delet Taste
+
+✍️ Heute habe ich die Buttons programmiert und meinen Code übersichtlicher gemacht weil er sehr unordentlich war.
+
+## 24.1.2025
+
+- [ ] Operatoren im Code vereinfachen
+- [ ] Den Code bei der "=" Taste überarbeiten, da er nocht Fehler hat
